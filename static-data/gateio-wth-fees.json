@@ -1,0 +1,178 @@
+{
+  "Gate.io": {
+    "USDT": {
+      "Ethereum": "1 USDT",
+      "Aptos": "0.0400 USDT",
+      "Arbitrum One": "0.500 USDT",
+      "BNB Smart Chain": "0.500 USDT",
+      "AVAX C-Chain": "0.500 USDT",
+      "CeloGold": "0.500 USDT",
+      "Polkadot": "0.500 USDT",
+      "GateChain": "0.500 USDT",
+      "kaia": "0.500 USDT",
+      "KAVA EVM": "1 USDT",
+      "Polygon": "0.500 USDT",
+      "Near": "0.500 USDT",
+      "Optimism": "0.500 USDT",
+      "Solana": "0.500 USDT",
+      "The Open Network": "0.500 USDT",
+      "Tron": "2 USDT",
+      "Tezos": "0.500 USDT"
+    },
+    "BTC": {
+      "Bitcoin BRC20": "0.00003276 BTC"
+    },
+    "ETH": {
+      "Ethereum": "0.000303 ETH"
+    },
+    "DOGE": {
+      "Doge Mainnet": "2.07 DOGE"
+    },
+    "USDC": {
+      "Ethereum": "1.03 USDC",
+      "Aptos": "0.500 USDC",
+      "Arbitrum One": "0.500 USDC",
+      "Base": "0.500 USDC",
+      "BNB Smart Chain": "0.499 USDC",
+      "AVAX C-Chain": "0.500 USDC",
+      "Polkadot": "0.499 USDC",
+      "Hedera Chain": "0.500 USDC",
+      "Polygon": "0.499 USDC",
+      "Near": "0.499 USDC",
+      "Optimism": "0.500 USDC",
+      "S": "0.500 USDC",
+      "Solana": "0.500 USDC",
+      "SUI": "0.500 USDC",
+      "ZkSync Era": "0.500 USDC"
+    },
+    "SOL": {
+      "Solana": "0.00292 SOL"
+    },
+    "FDUSD": {
+      "Ethereum": "1 FDUSD",
+      "BNB Smart Chain": "0.500 FDUSD"
+    },
+    "PEPE": {
+      "Ethereum": "82964.64 PEPE"
+    },
+    "TRX": {
+      "Tron": "1.50 TRX"
+    },
+    "BNB": {
+      "BNB Smart Chain": "0.000689 BNB",
+      "opBNB": "0.000689 BNB"
+    },
+    "ETC": {
+      "ETC": "0.0212 ETC"
+    },
+    "SUI": {
+      "SUI": "0.136 SUI"
+    },
+    "ADA": {
+      "Cardano": "0.613 ADA"
+    },
+    "LTC": {
+      "Litecoin LTC20": "0.00497 LTC"
+    },
+    "PENGU": {
+      "Solana": "16.80 PENGU"
+    },
+    "BONK": {
+      "Solana": "14593.85 BONK"
+    },
+    "XLM": {
+      "XLM": "1.04 XLM"
+    },
+    "LINK": {
+      "Ethereum": "0.0551 LINK"
+    },
+    "AVAX": {
+      "AVAX": "0.0207 AVAX",
+      "AVAX C-Chain": "0.0209 AVAX"
+    },
+    "PUMP": {
+      "Solana": "114.13 PUMP"
+    },
+    "HBAR": {
+      "Hedera Chain": "1.85 HBAR"
+    },
+    "UNI": {
+      "Ethereum": "0.103 UNI"
+    },
+    "FLOKI": {
+      "Ethereum": "7400.28 FLOKI",
+      "BNB Smart Chain": "3523.86 FLOKI"
+    },
+    "TRUMP": {
+      "Ethereum": "6.58 MAGATRUMP"
+    },
+    "SHIB": {
+      "Ethereum": "65505.04 SHIB",
+      "Shibarium": "34848.06 SHIB"
+    },
+    "ARB": {
+      "Ethereum": "2.26 ARB",
+      "Arbitrum One": "1.11 ARB"
+    },
+    "ENA": {
+      "Ethereum": "2.53 ENA"
+    },
+    "CRV": {
+      "Ethereum": "1.02 CRV"
+    },
+    "DOT": {
+      "Polkadot": "0.111 DOT"
+    },
+    "OP": {
+      "Optimism": "0.637 OP"
+    },
+    "WLD": {
+      "World Chain": "0.448 WLD",
+      "Ethereum": "0.869 WLD",
+      "Optimism": "0.448 WLD"
+    },
+    "BCH": {
+      "BCH": "0.000987 BCH"
+    },
+    "NEAR": {
+      "Near": "0.176 NEAR"
+    },
+    "MNT": {
+      "Mantle Network": "0.668 MNT",
+      "Ethereum": "1.31 MNT"
+    },
+    "HYPE": {
+      "hyperliquid": "0.0211 HYPE"
+    },
+    "APT": {
+      "Aptos": "0.0917 APT"
+    },
+    "ONDO": {
+      "Ethereum": "1.03 ONDO"
+    },
+    "FIL": {
+      "FIL": "0.173 FIL",
+      "FILEVM": "0.173 FIL"
+    },
+    "FARTCOIN": {
+      "Solana": "0.352 FARTCOIN"
+    },
+    "USD1": {
+      "BNB Smart Chain": "0.504 USD1",
+      "Ethereum": "1 USD1"
+    },
+    "TON": {
+      "The Open Network": "0.154 TON"
+    },
+    "ALGO": {
+      "Algorand": "1.68 ALGO"
+    },
+    "SEI": {
+      "SEI": "1.38 SEI",
+      "SEIEVM": "1.38 SEI"
+    },
+    "TIA": {
+      "TIA": "0.264 TIA"
+    }
+  }
+}

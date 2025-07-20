@@ -1,0 +1,192 @@
+{
+  "Bitget": {
+    "USDT": {
+      "BEP20": "0 USDT",
+      "TON": "0.15 USDT",
+      "SOL": "1 USDT",
+      "TRC20": "1.5 USDT",
+      "ERC20": "3 USDT",
+      "Arbitrum One": "0.2 USDT",
+      "Optimism": "0.15 USDT",
+      "Polygon": "0.2 USDT",
+      "AVAX C-Chain": "0.11 USDT",
+      "Kaia": "1 USDT",
+      "KAVA EVM Token": "0.2 USDT",
+      "Aptos": "0.03 USDT",
+      "Polkadot Asset Hub": "1 USDT"
+    },
+    "BTC": {
+      "BTC": "0.00004 BTC",
+      "LIGHTNING": "0.00001 BTC",
+      "BEP20": "0.00000128 BTC"
+    },
+    "ETH": {
+      "ETH": "0.00036677 ETH",
+      "BEP20": "0.00004232 ETH",
+      "Morph": "0.0003 ETH",
+      "Arbitrum One": "0.00004 ETH",
+      "Optimism": "0.00003 ETH",
+      "zkSync Era": "0.00004 ETH",
+      "BASE": "0.00004 ETH",
+      "LINEA": "0.00084639 ETH",
+      "SCROLL": "0.0001 ETH",
+      "Starknet": "0.0001 ETH"
+    },
+    "DOGE": {
+      "DOGE": "4 DOGE"
+    },
+    "USDC": {
+      "BEP20": "0.15009006 USDC",
+      "OPTIMISM": "0.1 USDC",
+      "POLYGON": "0.64 USDC",
+      "Aptos": "0.03 USDC",
+      "SONIC": "0 USDC",
+      "ERC20": "3.001802 USDC",
+      "BASE": "0.100061 USDC",
+      "AVAX C-Chain": "1.000601 USDC",
+      "SOL": "1.000601 USDC",
+      "ArbitrumOne": "0.200121 USDC",
+      "Polkadot Asset Hub": "1.000601 USDC",
+      "Noble": "0 USDC"
+    },
+    "SOL": {
+      "SOL": "0.006 SOL"
+    },
+    "XRP": {
+      "XRP": "0.2 XRP"
+    },
+    "FDUSD": {
+      "BEP20": "0.15064779 FDUSD",
+      "ERC20": "3.01295571 FDUSD"
+    },
+    "PEPE": {
+      "ERC20": "230769.23076924 PEPE"
+    },
+    "TRX": {
+      "TRX": "0.8 TRX"
+    },
+    "BNB": {
+      "BEP20": "0.0002 BNB"
+    },
+    "ETC": {
+      "ETC": "0.008 ETC",
+      "BEP20": "0.00645717 ETC"
+    },
+    "SUI": {
+      "SUI": "0.05298716 SUI"
+    },
+    "ADA": {
+      "Cardano": "0.8 ADA"
+    },
+    "LTC": {
+      "LTC": "0.001 LTC"
+    },
+    "PENGU": {
+      "SOL": "33.1774 PENGU"
+    },
+    "BONK": {
+      "SOL": "30497.10278 BONK"
+    },
+    "XLM": {
+      "Stellar Lumens": "0.02 XLM"
+    },
+    "LINK": {
+      "ERC20": "0.16769145 LINK"
+    },
+    "AVAX": {
+      "AVAX C-Chain": "0.0064 AVAX",
+      "AVAX X-Chain": "0.008 AVAX"
+    },
+    "PUMP": {
+      "SOL": "238.720459 PUMP"
+    },
+    "HBAR": {
+      "HBAR": "0.8 HBAR"
+    },
+    "UNI": {
+      "ERC20": "0.29838871 UNI"
+    },
+    "FLOKI": {
+      "BEP20": "1116.90245719 FLOKI",
+      "ERC20": "22338.04914371 FLOKI"
+    },
+    "AAVE": {
+      "ERC20": "0.00952865 AAVE"
+    },
+    "TRUMP": {
+      "SOL": "0.100211 TRUMP"
+    },
+    "SHIB": {
+      "BEP20": "10281.01439343 SHIB",
+      "ERC20": "205620.28786841 SHIB"
+    },
+    "ARB": {
+      "Arbitrum One": "0.44345899 ARB",
+      "ERC20": "6.65188471 ARB"
+    },
+    "ENA": {
+      "ERC20": "7.38370663 ENA"
+    },
+    "CRV": {
+      "ERC20": "3.12825861 CRV"
+    },
+    "DOT": {
+      "DOT": "0.08 DOT",
+      "Polkadot Asset Hub": "0.05 DOT"
+    },
+    "OP": {
+      "Optimism": "0.1 OP"
+    },
+    "WLD": {
+      "WLD": "0.08944544 WLD",
+      "ERC20": "2.68336315 WLD",
+      "Optimism": "0.89445439 WLD"
+    },
+    "BCH": {
+      "BCH": "0.0001 BCH"
+    },
+    "NEAR": {
+      "NEAR Protocol": "0.008 NEAR"
+    },
+    "MNT": {
+      "MNT": "0.01 MNT"
+    },
+    "HYPE": {
+      "HYPE": "0.04492363 HYPE"
+    },
+    "BGB": {
+      "ERC20": "0.61626952 BGB",
+      "Morph": "0.30813476 BGB"
+    },
+    "APT": {
+      "Aptos": "0.008 APT"
+    },
+    "ONDO": {
+      "ERC20": "2.94608662 ONDO"
+    },
+    "FIL": {
+      "FIL": "0.0008 FIL",
+      "FILEVM": "0.0008 FIL"
+    },
+    "FARTCOIN": {
+      "SOL": "0.69194576 FARTCOIN"
+    },
+    "USD1": {
+      "BEP20": "0 USD1",
+      "ERC20": "3.00060013 USD1"
+    },
+    "TON": {
+      "TON": "0.02 TON"
+    },
+    "ALGO": {
+      "ALGO": "0.008 ALGO"
+    },
+    "SEI": {
+      "SEI": "0.2 SEI",
+      "SEIEVM": "2.875216 SEI"
+    },
+    "TIA": {
+      "Celestia": "0.1 TIA"
+    }
+  }
+}

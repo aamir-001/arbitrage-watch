@@ -1,0 +1,6 @@
+selenium==4.16.0
+webdriver-manager==4.0.1
+ccxt==4.2.85
+requests==2.31.0
+pandas==2.2.2
+aiohttp==3.9.5

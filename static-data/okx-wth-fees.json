@@ -1,0 +1,130 @@
+{
+  "OKX": {
+    "USDT": {
+      "Aptos": "0.03",
+      "Arbitrum One": "0.098",
+      "Avalanche C-Chain": "0.22",
+      "EthereumERC20": "0.96",
+      "Optimism": "0.15",
+      "Polygon": "0.8",
+      "Solana": "1",
+      "TON": "0.15",
+      "TronTRC20": "2.3",
+      "X Layer": "0.1"
+    },
+    "BTC": {
+      "Bitcoin": "0.00001"
+    },
+    "ETH": {
+      "Arbitrum One": "0.00004",
+      "Base": "0.00004",
+      "EthereumERC20": "0.00024",
+      "Linea": "0.00003",
+      "Optimism": "0.00004",
+      "Starknet": "0.000095",
+      "X Layer": "0.00003",
+      "zkSync Era": "0.000041"
+    },
+    "DOGE": {
+      "Dogecoin": "4"
+    },
+    "USDC": {
+      "Aptos": "0.1",
+      "Arbitrum One": "0.098",
+      "Avalanche C-Chain": "0.22",
+      "Base": "0.1",
+      "EthereumERC20": "0.96",
+      "Optimism": "0.15",
+      "Polygon": "0.8",
+      "PolygonUSDC.e": "0.2",
+      "Solana": "1",
+      "Sui": "0.1",
+      "X Layer": "0.1"
+    },
+    "SOL": {
+      "Solana": "0.0025"
+    },
+    "XRP": {
+      "Ripple": "0.2"
+    },
+    "PEPE": {
+      "EthereumERC20": "71792.96"
+    },
+    "TRX": {
+      "TronTRC20": "0.8"
+    },
+    "ETC": {
+      "Ethereum Classic": "0.008"
+    },
+    "SUI": {
+      "Sui": "0.06"
+    },
+    "ADA": {
+      "Cardano": "0.8"
+    },
+    "LTC": {
+      "Litecoin": "0.001"
+    },
+    "PENGU": {
+      "Solana": "87.76150152"
+    },
+    "XLM": {
+      "Stellar": "0.004"
+    },
+    "LINK": {
+      "EthereumERC20": "0.052"
+    },
+    "AVAX": {
+      "Avalanche C-Chain": "0.0064",
+      "Avalanche X-Chain": "0.048"
+    },
+    "HBAR": {
+      "Hedera": "0.8"
+    },
+    "UNI": {
+      "EthereumERC20": "0.094"
+    },
+    "AAVE": {
+      "EthereumERC20": "0.0031"
+    },
+    "TRUMP": {
+      "Solana": "0.05"
+    },
+    "SHIB": {
+      "EthereumERC20": "63656.26"
+    },
+    "ARB": {
+      "Arbitrum One": "0.02",
+      "EthereumERC20": "0.7"
+    },
+    "CRV": {
+      "EthereumERC20": "0.99",
+      "Polygon": "0.01"
+    },
+    "DOT": {
+      "Polkadot": "0.08"
+    },
+    "OP": {
+      "Optimism": "0.1"
+    },
+    "WLD": {
+      "EthereumERC20": "0.83",
+      "Optimism": "0.022"
+    },
+    "BCH": {
+      "Bitcoin Cash": "0.0008"
+    },
+    "NEAR": {
+      "Near": "0.015"
+    },
+    "APT": {
+      "AptosFA": "0.001"
+    },
+    "ONDO": {
+      "EthereumERC20": "0.93"
+    },
+    "ALGO": {
+      "Algorand": "0.008"
+    }
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "BinanceUS-OKX": {
+    "USDT": {
+      "network": "Optimism",
+      "fee": "0.035"
+    },
+    "BTC": {
+      "network": "Bitcoin",
+      "fee": "3e-05"
+    },
+    "ETH": {
+      "network": "Optimism",
+      "fee": "5e-06"
+    },
+    "USDC": {
+      "network": "Optimism",
+      "fee": "0.035"
+    },
+    "SOL": {
+      "network": "Solana",
+      "fee": "0.001"
+    },
+    "ETC": {
+      "network": "Ethereum Classic",
+      "fee": "0.004"
+    },
+    "SUI": {
+      "network": "Sui",
+      "fee": "0.06"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.8"
+    },
+    "LTC": {
+      "network": "Litecoin",
+      "fee": "0.0001"
+    },
+    "PENGU": {
+      "network": "Solana",
+      "fee": "19.0"
+    },
+    "TRUMP": {
+      "network": "Solana",
+      "fee": "0.062"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "0.32"
+    },
+    "DOT": {
+      "network": "Polkadot",
+      "fee": "0.05"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.048"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.032"
+    },
+    "BCH": {
+      "network": "Bitcoin Cash",
+      "fee": "0.0002"
+    },
+    "ALGO": {
+      "network": "Algorand",
+      "fee": "0.008"
+    }
+  },
+  "BinanceUS-Gate.io": {
+    "USDT": {
+      "network": "Optimism",
+      "fee": "0.035"
+    },
+    "USDC": {
+      "network": "Optimism",
+      "fee": "0.035"
+    },
+    "SOL": {
+      "network": "Solana",
+      "fee": "0.001"
+    },
+    "BNB": {
+      "network": "opBNB",
+      "fee": "1e-05"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.8"
+    },
+    "PENGU": {
+      "network": "Solana",
+      "fee": "19.0"
+    },
+    "BONK": {
+      "network": "Solana",
+      "fee": "19290.0"
+    },
+    "AVAX": {
+      "network": "AVAX C-Chain",
+      "fee": "0.004"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "0.32"
+    },
+    "DOT": {
+      "network": "Polkadot",
+      "fee": "0.05"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.048"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.032"
+    },
+    "APT": {
+      "network": "Aptos",
+      "fee": "0.016"
+    },
+    "FIL": {
+      "network": "FILEVM",
+      "fee": "0.0"
+    },
+    "FARTCOIN": {
+      "network": "Solana",
+      "fee": "3.0"
+    },
+    "TON": {
+      "network": "The Open Network",
+      "fee": "0.02"
+    },
+    "ALGO": {
+      "network": "Algorand",
+      "fee": "0.008"
+    },
+    "SEI": {
+      "network": "SEIEVM",
+      "fee": "0.04"
+    }
+  },
+  "BinanceUS-Bitget": {
+    "USDT": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "BTC": {
+      "network": "BEP20",
+      "fee": "1.3e-07"
+    },
+    "ETH": {
+      "network": "BEP20",
+      "fee": "4.1e-06"
+    },
+    "USDC": {
+      "network": "BEP20",
+      "fee": "0.02"
+    },
+    "FDUSD": {
+      "network": "BEP20",
+      "fee": "0.02"
+    },
+    "PEPE": {
+      "network": "ERC20",
+      "fee": "110679.0"
+    },
+    "BNB": {
+      "network": "BEP20",
+      "fee": "1e-05"
+    },
+    "ETC": {
+      "network": "BEP20",
+      "fee": "0.00064"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.8"
+    },
+    "LINK": {
+      "network": "ERC20",
+      "fee": "0.08"
+    },
+    "AVAX": {
+      "network": "AVAX C-Chain",
+      "fee": "0.004"
+    },
+    "UNI": {
+      "network": "ERC20",
+      "fee": "0.14"
+    },
+    "FLOKI": {
+      "network": "BEP20",
+      "fee": "110.0"
+    },
+    "AAVE": {
+      "network": "ERC20",
+      "fee": "0.0044"
+    },
+    "SHIB": {
+      "network": "BEP20",
+      "fee": "1000.0"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "0.32"
+    },
+    "ENA": {
+      "network": "ERC20",
+      "fee": "3.67"
+    },
+    "CRV": {
+      "network": "ERC20",
+      "fee": "1.44"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.048"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.032"
+    },
+    "NEAR": {
+      "network": "NEAR Protocol",
+      "fee": "0.018"
+    },
+    "APT": {
+      "network": "Aptos",
+      "fee": "0.016"
+    },
+    "ONDO": {
+      "network": "ERC20",
+      "fee": "1.42"
+    },
+    "FIL": {
+      "network": "FILEVM",
+      "fee": "0.0"
+    },
+    "USD1": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "SEI": {
+      "network": "SEIEVM",
+      "fee": "0.04"
+    },
+    "TIA": {
+      "network": "Celestia",
+      "fee": "0.1"
+    }
+  },
+  "BinanceUS-MEXC": {
+    "USDT": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "BTC": {
+      "network": "BEP20",
+      "fee": "1.3e-07"
+    },
+    "ETH": {
+      "network": "BEP20",
+      "fee": "4.1e-06"
+    },
+    "USDC": {
+      "network": "BEP20",
+      "fee": "0.02"
+    },
+    "FDUSD": {
+      "network": "BEP20",
+      "fee": "0.02"
+    },
+    "BNB": {
+      "network": "BEP20",
+      "fee": "1e-05"
+    },
+    "LINK": {
+      "network": "ERC20",
+      "fee": "0.08"
+    },
+    "UNI": {
+      "network": "BEP20",
+      "fee": "0.0015"
+    },
+    "FLOKI": {
+      "network": "BEP20",
+      "fee": "110.0"
+    },
+    "AAVE": {
+      "network": "ERC20",
+      "fee": "0.0044"
+    },
+    "SHIB": {
+      "network": "BEP20",
+      "fee": "1000.0"
+    },
+    "ARB": {
+      "network": "ERC20",
+      "fee": "3.2"
+    },
+    "ENA": {
+      "network": "ERC20",
+      "fee": "3.67"
+    },
+    "CRV": {
+      "network": "ERC20",
+      "fee": "1.44"
+    },
+    "WLD": {
+      "network": "ERC20",
+      "fee": "1.27"
+    },
+    "ONDO": {
+      "network": "ERC20",
+      "fee": "1.42"
+    },
+    "USD1": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "SEI": {
+      "network": "SEIEVM",
+      "fee": "0.04"
+    }
+  },
+  "Gate.io-OKX": {
+    "USDT": {
+      "network": "Aptos",
+      "fee": "0.03"
+    },
+    "USDC": {
+      "network": "Arbitrum One",
+      "fee": "0.098"
+    },
+    "SOL": {
+      "network": "Solana",
+      "fee": "0.0025"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.8"
+    },
+    "PENGU": {
+      "network": "Solana",
+      "fee": "87.76150152"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "0.02"
+    },
+    "DOT": {
+      "network": "Polkadot",
+      "fee": "0.08"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.1"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.022"
+    },
+    "NEAR": {
+      "network": "Near",
+      "fee": "0.015"
+    },
+    "ALGO": {
+      "network": "Algorand",
+      "fee": "0.008"
+    }
+  },
+  "Bitget-OKX": {
+    "USDT": {
+      "network": "Aptos",
+      "fee": "0.03"
+    },
+    "ETH": {
+      "network": "Optimism",
+      "fee": "4e-05"
+    },
+    "USDC": {
+      "network": "Aptos",
+      "fee": "0.1"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.8"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "0.02"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.1"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.022"
+    }
+  },
+  "Bitget-Gate.io": {
+    "USDT": {
+      "network": "Aptos",
+      "fee": "0.04"
+    },
+    "USDC": {
+      "network": "AVAX C-Chain",
+      "fee": "0.5"
+    },
+    "ETC": {
+      "network": "ETC",
+      "fee": "0.0212"
+    },
+    "SUI": {
+      "network": "SUI",
+      "fee": "0.136"
+    },
+    "ADA": {
+      "network": "Cardano",
+      "fee": "0.613"
+    },
+    "AVAX": {
+      "network": "AVAX C-Chain",
+      "fee": "0.0209"
+    },
+    "ARB": {
+      "network": "Arbitrum One",
+      "fee": "1.11"
+    },
+    "OP": {
+      "network": "Optimism",
+      "fee": "0.637"
+    },
+    "WLD": {
+      "network": "Optimism",
+      "fee": "0.448"
+    },
+    "BCH": {
+      "network": "BCH",
+      "fee": "0.000987"
+    },
+    "APT": {
+      "network": "Aptos",
+      "fee": "0.0917"
+    },
+    "FIL": {
+      "network": "FILEVM",
+      "fee": "0.173"
+    },
+    "SEI": {
+      "network": "SEI",
+      "fee": "1.38"
+    }
+  },
+  "Gate.io-MEXC": {
+    "USDC": {
+      "network": "SUI",
+      "fee": "0.5"
+    },
+    "ETC": {
+      "network": "ETC",
+      "fee": "0.0212"
+    },
+    "SUI": {
+      "network": "SUI",
+      "fee": "0.136"
+    },
+    "XLM": {
+      "network": "XLM",
+      "fee": "1.04"
+    },
+    "AVAX": {
+      "network": "AVAX",
+      "fee": "0.0207"
+    },
+    "BCH": {
+      "network": "BCH",
+      "fee": "0.000987"
+    },
+    "FIL": {
+      "network": "FIL",
+      "fee": "0.173"
+    },
+    "SEI": {
+      "network": "SEI",
+      "fee": "1.38"
+    }
+  },
+  "Bitget-MEXC": {
+    "USDT": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "BTC": {
+      "network": "BEP20",
+      "fee": "1.28e-06"
+    },
+    "ETH": {
+      "network": "BASE",
+      "fee": "4e-05"
+    },
+    "USDC": {
+      "network": "SONIC",
+      "fee": "0.0"
+    },
+    "SOL": {
+      "network": "SOL",
+      "fee": "0.006"
+    },
+    "XRP": {
+      "network": "XRP",
+      "fee": "0.2"
+    },
+    "FDUSD": {
+      "network": "BEP20",
+      "fee": "0.15064779"
+    },
+    "TRX": {
+      "network": "TRX",
+      "fee": "0.8"
+    },
+    "BNB": {
+      "network": "BEP20",
+      "fee": "0.0002"
+    },
+    "ETC": {
+      "network": "ETC",
+      "fee": "0.008"
+    },
+    "SUI": {
+      "network": "SUI",
+      "fee": "0.05298716"
+    },
+    "LTC": {
+      "network": "LTC",
+      "fee": "0.001"
+    },
+    "PENGU": {
+      "network": "SOL",
+      "fee": "33.1774"
+    },
+    "BONK": {
+      "network": "SOL",
+      "fee": "30497.10278"
+    },
+    "LINK": {
+      "network": "ERC20",
+      "fee": "0.16769145"
+    },
+    "HBAR": {
+      "network": "HBAR",
+      "fee": "0.8"
+    },
+    "UNI": {
+      "network": "ERC20",
+      "fee": "0.29838871"
+    },
+    "FLOKI": {
+      "network": "BEP20",
+      "fee": "1116.90245719"
+    },
+    "AAVE": {
+      "network": "ERC20",
+      "fee": "0.00952865"
+    },
+    "TRUMP": {
+      "network": "SOL",
+      "fee": "0.100211"
+    },
+    "SHIB": {
+      "network": "BEP20",
+      "fee": "10281.01439343"
+    },
+    "ARB": {
+      "network": "ERC20",
+      "fee": "6.65188471"
+    },
+    "ENA": {
+      "network": "ERC20",
+      "fee": "7.38370663"
+    },
+    "CRV": {
+      "network": "ERC20",
+      "fee": "3.12825861"
+    },
+    "DOT": {
+      "network": "DOT",
+      "fee": "0.08"
+    },
+    "WLD": {
+      "network": "ERC20",
+      "fee": "2.68336315"
+    },
+    "BCH": {
+      "network": "BCH",
+      "fee": "0.0001"
+    },
+    "MNT": {
+      "network": "MNT",
+      "fee": "0.01"
+    },
+    "ONDO": {
+      "network": "ERC20",
+      "fee": "2.94608662"
+    },
+    "FIL": {
+      "network": "FIL",
+      "fee": "0.0008"
+    },
+    "FARTCOIN": {
+      "network": "SOL",
+      "fee": "0.69194576"
+    },
+    "USD1": {
+      "network": "BEP20",
+      "fee": "0.0"
+    },
+    "ALGO": {
+      "network": "ALGO",
+      "fee": "0.008"
+    },
+    "SEI": {
+      "network": "SEI",
+      "fee": "0.2"
+    },
+    "PUMP": {
+      "network": "SOL",
+      "fee": "238.720459"
+    },
+    "BGB": {
+      "network": "ERC20",
+      "fee": "0.61626952"
+    }
+  }
+}

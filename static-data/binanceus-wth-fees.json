@@ -1,0 +1,222 @@
+{
+  "BinanceUS": {
+    "USDT": {
+      "BEP20": "0",
+      "NEAR Protocol": "0.2",
+      "Vaulta": "1",
+      "AVAX C-Chain": "0.093",
+      "Aptos": "0.04",
+      "Arbitrum One": "0.14",
+      "Polkadot": "0.7",
+      "CELO": "0.03",
+      "ERC20": "1.5",
+      "KAVAEVM": "0.2",
+      "Optimism": "0.035",
+      "Polygon POS": "0.0064",
+      "Scroll": "0.1",
+      "Solana": "0.5",
+      "Tezos": "0.1",
+      "The Open Network": "0.3",
+      "TRC20": "1",
+      "opBNB": "0"
+    },
+    "BTC": {
+      "BEP20": "0.00000013",
+      "Bitcoin": "0.00003",
+      "SegWit": "0.001",
+      "ERC20": "0.000012",
+      "Lightning Network": "0.000001"
+    },
+    "ETH": {
+      "BEP20": "0.0000041",
+      "ERC20": "0.0003",
+      "Arbitrum One": "0.00004",
+      "Base": "0.00004",
+      "Manta Network": "0.00003",
+      "Optimism": "0.000005",
+      "Scroll": "0.00005",
+      "Starknet": "0.0001",
+      "zkSync Era": "0.00004"
+    },
+    "DOGE": {
+      "BEP20": "0.06",
+      "dogecoin": "4"
+    },
+    "USDC": {
+      "BEP20": "0.02",
+      "AVAX C-Chain": "0.093",
+      "Algorand": "1",
+      "Aptos": "0.1",
+      "Arbitrum One": "0.14",
+      "Polkadot": "0.7",
+      "Base": "0.3",
+      "CELO": "0.05",
+      "ERC20": "1.5",
+      "Hedera Hashgraph": "0.1",
+      "NEAR Protocol": "0.2",
+      "Optimism": "0.035",
+      "Polygon POS": "0.0064",
+      "Ronin": "0.2",
+      "Solana": "0.5",
+      "Sonic Network": "0.01",
+      "Stellar Network": "1",
+      "Sui": "0.1",
+      "zkSync Era": "0.14"
+    },
+    "SOL": {
+      "BEP20": "0.000082",
+      "Solana": "0.001"
+    },
+    "XRP": {
+      "BEP20": "0.0042",
+      "XRP Ledger": "0.2",
+      "ERC20": "0.41"
+    },
+    "FDUSD": {
+      "BEP20": "0.02",
+      "ERC20": "4",
+      "Solana": "0.5",
+      "Sui": "0.2",
+      "opBNB": "0.006"
+    },
+    "PEPE": {
+      "ERC20": "110679"
+    },
+    "TRX": {
+      "BEP20": "0.045",
+      "TRC20": "1",
+      "ERC20": "4.36"
+    },
+    "BNB": {
+      "BEP20": "0.00001",
+      "ERC20": "0.0014",
+      "opBNB": "0.00001"
+    },
+    "ETC": {
+      "BEP20": "0.00064",
+      "Ethereum Classic": "0.004"
+    },
+    "SUI": {
+      "Sui": "0.06"
+    },
+    "ADA": {
+      "BEP20": "0.018",
+      "Cardano": "0.8"
+    },
+    "LTC": {
+      "BEP20": "0.00014",
+      "Litecoin": "0.0001"
+    },
+    "PENGU": {
+      "Solana": "19"
+    },
+    "BONK": {
+      "BEP20": "6000",
+      "Solana": "19290"
+    },
+    "XLM": {
+      "BEP20": "0.031",
+      "Stellar Network": "0.005"
+    },
+    "LINK": {
+      "BEP20": "0.00082",
+      "ERC20": "0.08"
+    },
+    "AVAX": {
+      "BEP20": "0.00062",
+      "Avalanche": "0.008",
+      "AVAX C-Chain": "0.004"
+    },
+    "HBAR": {
+      "Hedera Hashgraph": "0.06"
+    },
+    "UNI": {
+      "BEP20": "0.0015",
+      "ERC20": "0.14"
+    },
+    "FLOKI": {
+      "BEP20": "110",
+      "ERC20": "10807"
+    },
+    "AAVE": {
+      "BEP20": "0.000045",
+      "ERC20": "0.0044"
+    },
+    "TRUMP": {
+      "Solana": "0.062"
+    },
+    "SHIB": {
+      "BEP20": "1000",
+      "ERC20": "97768"
+    },
+    "ARB": {
+      "Arbitrum One": "0.32",
+      "ERC20": "3.2"
+    },
+    "ENA": {
+      "ERC20": "3.67"
+    },
+    "CRV": {
+      "Arbitrum One": "0.14",
+      "ERC20": "1.44",
+      "Optimism": "0.036"
+    },
+    "DOT": {
+      "BEP20": "0.0035",
+      "Polkadot": "0.05",
+      "ERC20": "0.34"
+    },
+    "OP": {
+      "Optimism": "0.048"
+    },
+    "WLD": {
+      "ERC20": "1.27",
+      "Optimism": "0.032",
+      "World Chain": "0.05"
+    },
+    "BCH": {
+      "BEP20": "0.000028",
+      "Bitcoin Cash": "0.0002",
+      "ERC20": "0.0028"
+    },
+    "NEAR": {
+      "BEP20": "0.0052",
+      "NEAR Protocol": "0.018"
+    },
+    "MNT": {
+      "FIAT": "0"
+    },
+    "APT": {
+      "Aptos": "0.016"
+    },
+    "ONDO": {
+      "ERC20": "1.42"
+    },
+    "FIL": {
+      "BEP20": "0.0053",
+      "Filecoin": "0.001",
+      "ERC20": "0.52",
+      "FILEVM": "0"
+    },
+    "FARTCOIN": {
+      "Solana": "3"
+    },
+    "USD1": {
+      "BEP20": "0",
+      "ERC20": "2.5"
+    },
+    "TON": {
+      "The Open Network": "0.02"
+    },
+    "ALGO": {
+      "Algorand": "0.008"
+    },
+    "SEI": {
+      "SEI": "0.4",
+      "SEIEVM": "0.04"
+    },
+    "TIA": {
+      "Celestia": "0.1"
+    }
+  }
+}

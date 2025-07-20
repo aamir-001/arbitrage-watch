@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Tether",
+    "symbol": "USDT"
+  },
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC"
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL"
+  },
+  {
+    "name": "XRP",
+    "symbol": "XRP"
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "FDUSD"
+  },
+  {
+    "name": "Binance Bridged USDT (BNB Smart Chain)",
+    "symbol": "BSC-USD"
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE"
+  },
+  {
+    "name": "TRON",
+    "symbol": "TRX"
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB"
+  },
+  {
+    "name": "Ethereum Classic",
+    "symbol": "ETC"
+  },
+  {
+    "name": "Sui",
+    "symbol": "SUI"
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  {
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU"
+  },
+  {
+    "name": "Bonk",
+    "symbol": "BONK"
+  },
+  {
+    "name": "Stellar",
+    "symbol": "XLM"
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK"
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX"
+  },
+  {
+    "name": "Pump.fun",
+    "symbol": "PUMP"
+  },
+  {
+    "name": "Hedera",
+    "symbol": "HBAR"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "name": "FLOKI",
+    "symbol": "FLOKI"
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE"
+  },
+  {
+    "name": "Official Trump",
+    "symbol": "TRUMP"
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB"
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB"
+  },
+  {
+    "name": "Ethena",
+    "symbol": "ENA"
+  },
+  {
+    "name": "Curve DAO",
+    "symbol": "CRV"
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT"
+  },
+  {
+    "name": "Optimism",
+    "symbol": "OP"
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH"
+  },
+  {
+    "name": "NEAR Protocol",
+    "symbol": "NEAR"
+  },
+  {
+    "name": "Mantle",
+    "symbol": "MNT"
+  },
+  {
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "CBBTC"
+  },
+  {
+    "name": "Hyperliquid",
+    "symbol": "HYPE"
+  },
+  {
+    "name": "Bitget Token",
+    "symbol": "BGB"
+  },
+  {
+    "name": "USDT0",
+    "symbol": "USDT0"
+  },
+  {
+    "name": "Aptos",
+    "symbol": "APT"
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ONDO"
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "FIL"
+  },
+  {
+    "name": "Fartcoin",
+    "symbol": "FARTCOIN"
+  },
+  {
+    "name": "USD1",
+    "symbol": "USD1"
+  },
+  {
+    "name": "Toncoin",
+    "symbol": "TON"
+  },
+  {
+    "name": "Algorand",
+    "symbol": "ALGO"
+  },
+  {
+    "name": "Sei",
+    "symbol": "SEI"
+  },
+  {
+    "name": "Celestia",
+    "symbol": "TIA"
+  }
+]
